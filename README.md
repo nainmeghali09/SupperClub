@@ -1,5 +1,5 @@
 # SupperClub
-Tga Line- Make It Accordingly
+Tag Line- Make It Accordingly
 
 For my project at coursera, I had to design a website for a resturant. So, I decided to look for a concent where a contumer can buy costumizable wraps.
 Link for prototype is given below:
